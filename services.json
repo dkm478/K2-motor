@@ -1,0 +1,14 @@
+[
+{"id":"vidange","category":"Entretien","name":"Vidange moteur","description":"Huile moteur + filtre à huile + contrôle des niveaux","price":59,"minutes":30,"icon":"♧"},
+{"id":"huile","category":"Filtres","name":"Filtre à huile","description":"Remplacement du filtre à huile","price":25,"minutes":30,"icon":"♧"},
+{"id":"air","category":"Filtres","name":"Filtre à air","description":"Remplacement du filtre à air moteur","price":25,"minutes":30,"icon":"≋"},
+{"id":"habitacle","category":"Filtres","name":"Filtre habitacle","description":"Filtre pollen / charbon actif","price":30,"minutes":30,"icon":"✣"},
+{"id":"gasoil","category":"Filtres","name":"Filtre à gasoil","description":"Remplacement du filtre à carburant diesel","price":45,"minutes":30,"icon":"▤"},
+{"id":"plaquettes","category":"Freinage","name":"Plaquettes de frein","description":"Remplacement plaquettes (essieu avant ou arrière)","price":89,"minutes":60,"icon":"◎"},
+{"id":"disques","category":"Freinage","name":"Disques + plaquettes","description":"Disques et plaquettes sur un essieu","price":189,"minutes":90,"icon":"◉"},
+{"id":"liquide","category":"Freinage","name":"Liquide de frein","description":"Purge et remplacement du liquide de frein","price":49,"minutes":30,"icon":"♧"},
+{"id":"diagnostic","category":"Diagnostic","name":"Diagnostic valise","description":"Lecture et effacement des codes défauts","price":39,"minutes":30,"icon":"⚒"},
+{"id":"pneus","category":"Pneus","name":"Montage pneus","description":"Montage + équilibrage 4 pneus (hors pneus)","price":49,"minutes":60,"icon":"⊙"},
+{"id":"batterie","category":"Électricité","name":"Batterie","description":"Test et remplacement batterie (main-d’œuvre)","price":29,"minutes":30,"icon":"ϟ"},
+{"id":"essuie","category":"Entretien","name":"Essuie-glaces","description":"Remplacement balais avant / arrière","price":15,"minutes":30,"icon":"≋"}
+]
